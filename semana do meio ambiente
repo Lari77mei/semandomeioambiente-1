@@ -1,0 +1,522 @@
+CODIGO SEMANA DO MEIO AMBIENTE
+CODIGO FORMULÁRIO  PAGINA 1
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="IMG/download (1).png">
+    <title>Semana do Meio Ambiente</title>
+<br> <br>
+
+    <style>
+        .alto {
+            width: 1282px;
+            height: 200px;
+            background-color: #FFFFFF;
+            margin-left: -10px;
+            margin-right: 0px;
+            margin-bottom: -100px;
+            margin-top: -10px;
+        }
+
+        .baixo {
+
+            width: 1281px;
+            height: 200px;
+            background-color:#1E8449;
+            margin-left: -10px;
+            margin-right: 0px;
+            margin-top: -10px;
+            margin-bottom: -100px;
+}
+</style>
+
+</head>
+
+<body bgcolor="FFFFFF">
+    <div class="alto">
+        <font size="8" face="arial">
+            <center>
+                <table border="0" width="1282" height="10">
+
+                    <tr border="0" width="1000">
+                        <td width="423">
+                
+
+                        </td>
+                        <td width="400">
+                            <center><img src="IMG/download.png" width="70%"> </center> <br>
+                        </td>
+                        <td> <br> <br> 
+                            
+                            
+                        </td>
+                    </tr>
+                </table>
+                <table border="3" style="border-color: #145A32; color: #145A32;" width="1282"></table>
+    </div>
+    <br> <br>
+                            
+                            
+
+
+    <div class="baixo">
+        <center>
+            <table border="0" width="1282">
+                <tr>
+                    <font color="white">  </font>
+                </tr>
+                <tr>
+                    <td width="423">
+                        <center> <a href="oquee.html"> <img src="IMG/oquee.png" width="100"> </a> <br>
+                    </td>
+
+                    <td width="423">
+                        <center><a href="atividades.html"> <img src="IMG/download (1).png" width="155"""></a></center>
+                    </td>
+
+                    <td width="423">
+                        <center> <a href="curiosidades.html"> <img src="IMG/curiosidades.png" width="100"> </a> <br>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td width="423" height="-10px">
+                        <center>
+                            <font size="5"  color = '#FFD700' face = 'Cooper Black'>
+                             O QUE É?
+                    </td>
+
+                    <td width="423">
+                        <center>
+                            <font size="5"color = '#FFD700' face = 'Cooper Black'>  ATIVIDADES
+                    </td>
+
+                    <td width="423">
+                        <center>
+                            <font size="5" color = '#FFD700' face = 'Cooper Black'>  CURIOSIDADES
+                    </td>
+                </tr>
+            </table>
+
+            <br>
+            <br>
+            <br>
+            <table border="3" style="border-color: #145A32; color: #145A32;" width="1282"></table>
+            <table border="0" width="1282">
+
+                <tr border="8" width="1282">
+
+                    <td width="423" height="30">
+                        <font size="2"  face = 'Candara'> 
+                            <b> INTEGRANTES: </b> ANA GABRIELLA CARVALHO CARDOSO   E        
+                                LARISSA LIMA MANTOVANI
+                    </td>
+    </div>
+
+
+
+
+
+</body>
+
+</html>
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+CODIGO O QUE É 
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="IMG/download (1).png">
+    <title>Semana do Meio Ambiente</title>
+<br> <br>
+
+    <style>
+        .alto {
+            width: 1282px;
+            height: 200px;
+            background-color: #FFFFFF;
+            margin-left: -10px;
+            margin-right: 0px;
+            margin-bottom: -100px;
+            margin-top: -10px;
+        }
+
+        .baixo {
+
+            width: 1281px;
+            height: 700px;
+            background-color:#1E8449;
+            margin-left: -10px;
+            margin-right: 0px;
+            margin-top: -10px;
+            margin-bottom: 100px;
+}
+         .content {
+            font-family: 'Century Schoolbook', serif;
+            color: #FFFDEC;
+            font-size: 16px; 
+        }
+</style>
+
+</head>
+
+<body bgcolor="FFFFFF">
+    <div class="alto">
+        <font size="8" face="arial">
+            <center>
+                <table border="0" width="1282" height="10">
+
+                    <tr border="0" width="1000">
+                        <td width="423">
+                
+
+                        </td>
+                        <td width="400">
+                            <center><img src="IMG/download.png" width="70%"> </center> <br>
+                        </td>
+                        <td> <br> <br> 
+                            
+                            
+                        </td>
+                    </tr>
+                </table>
+                <table border="3" style="border-color: #145A32; color: #145A32;" width="1282"></table>
+    </div>
+    <br> <br>
+                            
+                            
+
+
+    <div class="baixo">
+        <center>
+            <table border="0" width="1282">
+                <tr>
+                    <font color="white">  </font>
+                </tr>
+                <tr>
+            
+
+                <tr>
+                    <td width="15000" height="10px">
+                        <center>
+                            <font size="5"  color = '#FFD700' face = 'Cooper Black'>
+                            O QUE É?
+                    </td>
+
+                    <td width="423">
+                        <center>
+                            <font size="5"color = '#FFD700' face = 'Century Schoolbook'>  
+                    </td>
+
+                </tr>
+            </table>
+            <br>
+    
+
+            
+
+            <body>
+                <table border="1" width="1282">
+                    <tr>
+                        <td width="423" height="-10">
+                            <center>
+                                <div class="content">
+                                    <b>A Semana do Meio Ambiente é um evento anual celebrado em diversos países, dedicado à conscientização e promoção de ações voltadas para a proteção e preservação do meio ambiente. Geralmente, ela ocorre na primeira semana de junho, coincidindo com o Dia Mundial do Meio Ambiente, comemorado em 5 de junho.
+
+                                        Durante essa semana, são realizadas diversas atividades como palestras, workshops, campanhas de educação ambiental, plantio de árvores, mutirões de limpeza, entre outras iniciativas. O objetivo é envolver a sociedade, empresas, escolas e governos em práticas sustentáveis e destacar a importância da conservação dos recursos naturais para as futuras gerações.
+                                </b>
+                                </div>
+                            </center>
+                        </td>
+                    </tr>
+                </table>
+            </body>
+            </html>
+
+
+
+
+</body>
+
+</html>
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+CODIGO ATIVIDADES
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="IMG/download (1).png">
+    <title>Semana do Meio Ambiente</title>
+<br> <br>
+
+    <style>
+        .alto {
+            width: 1282px;
+            height: 200px;
+            background-color: #FFFFFF;
+            margin-left: -10px;
+            margin-right: 0px;
+            margin-bottom: -100px;
+            margin-top: -10px;
+        }
+
+        .baixo {
+
+            width: 1281px;
+            height: 700px;
+            background-color:#1E8449;
+            margin-left: -10px;
+            margin-right: 0px;
+            margin-top: -10px;
+            margin-bottom: 100px;
+}
+         .content { 
+            font-family: 'Century Schoolbook', serif;
+            color: #FFFDEC;
+            font-size: 16px; 
+        }
+</style>
+
+</head>
+
+<body bgcolor="FFFFFF">
+    <div class="alto">
+        <font size="8" face="arial">
+            <center>
+                <table border="0" width="1282" height="10">
+
+                    <tr border="0" width="1000">
+                        <td width="423">
+                
+
+                        </td>
+                        <td width="400">
+                            <center><img src="IMG/download.png" width="70%"> </center> <br>
+                        </td>
+                        <td> <br> <br> 
+                            
+                            
+                        </td>
+                    </tr>
+                </table>
+                <table border="3" style="border-color: #145A32; color: #145A32;" width="1282"></table>
+    </div>
+    <br> <br>
+                            
+                            
+
+
+    <div class="baixo">
+        <center>
+            <table border="0" width="1282">
+                <tr>
+                    <font color="white">  </font>
+                </tr>
+                <tr>
+            
+
+                <tr>
+                    <td width="15000" height="10px">
+                        <center>
+                            <font size="5"  color = '#FFD700' face = 'Cooper Black'>
+                            ATIVIDADES?
+                    </td>
+
+                    <td width="423">
+                        <center>
+                            <font size="5"color = '#FFD700' face = 'Century Schoolbook'>  
+                    </td>
+
+                </tr>
+            </table>
+            <br>
+    
+
+            
+
+            <body>
+                <table border="1" width="1282">
+                    <tr>
+                        <td width="423" height="-10">
+                            <center>
+                                <div class="content"> 
+                                    <b> Uma variedade de atividades é realizada para promover a conscientização ambiental e incentivar ações sustentáveis. Algumas dessas atividades incluem:<br> 
+            <br>
+                                    1. Palestras e Workshops: Especialistas em meio ambiente realizam palestras e workshops sobre temas como sustentabilidade, mudanças climáticas, conservação de biodiversidade, entre outros.<br>
+                                    
+                                    2. Plantio de Árvores: Ações de reflorestamento e plantio de árvores são comuns, envolvendo escolas, comunidades e empresas.<br>
+                                    
+                                    3. Feiras e Exposições: Eventos que exibem produtos ecológicos, tecnologias sustentáveis e projetos ambientais inovadores.<br>
+                                    
+                                    4. Caminhadas e Passeios Ecológicos: Atividades ao ar livre que promovem a interação com a natureza e a educação ambiental.<br>
+                                    
+                                    5. Oficinas de Reciclagem: Workshops práticos sobre como reciclar materiais e criar novos produtos a partir de resíduos.<br>
+                                    
+                                    6. Projeção de Filmes e Documentários: Exibições de filmes e documentários sobre temas ambientais, seguidas de debates e discussões.<br>
+                                    
+                                    7. Campanhas de Educação Ambiental: Atividades educativas em escolas e comunidades, distribuindo materiais informativos e realizando dinâmicas sobre a importância da conservação do meio ambiente.<br>
+                                    
+                                    8. Ações de Conservação: Projetos de conservação da fauna e flora locais, incluindo a proteção de espécies ameaçadas.<br>
+                                    
+                                    9. Incentivo ao Uso de Transportes Sustentáveis: Campanhas para promover o uso de bicicletas, transporte público e caronas solidárias.<br>
+
+                                    10. Mutirões de Limpeza: Grupos de voluntários se organizam para limpar praias, rios, parques e outras áreas públicas, removendo lixo e resíduos.
+                                </b>
+                                </div>
+                            </center>
+                        </td>
+                    </tr>
+                </table>
+            </body>
+            </html>
+
+
+
+
+</body>
+
+</html>
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+CODIGO CURIOSIDADES
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="IMG/download (1).png">
+    <title>Semana do Meio Ambiente</title>
+<br> <br>
+
+    <style>
+        .alto {
+            width: 1282px;
+            height: 200px;
+            background-color: #FFFFFF;
+            margin-left: -10px;
+            margin-right: 0px;
+            margin-bottom: -100px;
+            margin-top: -10px;
+        }
+
+        .baixo {
+
+            width: 1281px;
+            height: 700px;
+            background-color:#1E8449;
+            margin-left: -10px;
+            margin-right: 0px;
+            margin-top: -10px;
+            margin-bottom: 100px;
+}
+         .content { 
+            font-family: 'Century Schoolbook', serif;
+            color: #FFFDEC;
+            font-size: 16px; 
+        }
+</style>
+
+</head>
+
+<body bgcolor="FFFFFF">
+    <div class="alto">
+        <font size="8" face="arial">
+            <center>
+                <table border="0" width="1282" height="10">
+
+                    <tr border="0" width="1000">
+                        <td width="423">
+                
+
+                        </td>
+                        <td width="400">
+                            <center><img src="IMG/download.png" width="70%"> </center> <br>
+                        </td>
+                        <td> <br> <br> 
+                            
+                            
+                        </td>
+                    </tr>
+                </table>
+                <table border="3" style="border-color: #145A32; color: #145A32;" width="1000"></table>
+    </div>
+    <br> <br>
+                            
+                            
+
+
+    <div class="baixo">
+        <center>
+            <table border="0" width="1282">
+                <tr>
+                    <font color="white">  </font>
+                </tr>
+                <tr>
+            
+
+                <tr>
+                    <td width="15000" height="10px">
+                        <center>
+                            <font size="5"  color = '#FFD700' face = 'Cooper Black'>
+                            CURIOSIDADES
+                    </td>
+
+                    <td width="423">
+                        <center>
+                            <font size="5"color = '#FFD700' face = 'Century Schoolbook'>  
+                    </td>
+
+                </tr>
+            </table>
+            <br>
+    
+
+            
+
+            <body>
+                <table border="1" width="1282">
+                    <tr>
+                        <td width="423" height="-10">
+                            <center>
+                                <div class="content"> 
+                                    <b>
+                                        A Semana do Meio Ambiente, celebrada anualmente e culminando no Dia Mundial do Meio Ambiente em 5 de junho, foi instituída pela ONU em 1972.<br>
+                                         Ela tem como objetivo aumentar a conscientização sobre questões ambientais e promover ações sustentáveis. Cada ano, um tema específico é destacado e um país é escolhido como sede das celebrações globais.<br>
+
+                                        Curiosidades incluem a participação de mais de 100 países, alinhamento com os Objetivos de Desenvolvimento Sustentável da ONU, e a mobilização de comunidades, empresas e escolas em atividades como plantio de árvores, campanhas de limpeza, e projetos de reciclagem.<br> Celebridades e influenciadores também contribuem para aumentar a conscientização e o engajamento público. As ações iniciadas durante esta semana frequentemente resultam em mudanças de longo prazo.
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                </b>
+                                </div>
+                            </center>
+                        </td>
+                    </tr>
+                </table>
+            </body>
+            </html>
+
+
+
+
+</body>
+
+</html>
